@@ -87,21 +87,21 @@ clean = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
+    "START_IMG_URL", "https://graph.org/file/f3bdefba73d45f325dc15-78f9eb7cbb04e65aeb.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
+    "PING_IMG_URL", "https://graph.org/file/66c98a8c0f021226c8f5c-b59746a1c10fc560e8.jpg"
 )
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-STREAM_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-YOUTUBE_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/85a4fd2ab53ab8f4834c4-fa8668e98b19385789.jpg"
+STATS_IMG_URL = "https://graph.org/file/d8adf15574e956a94b8c8-3121bcfd3808e55b35.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/d19f2060762d8ac8beeb9-27177d3a05ad58af31.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/d19f2060762d8ac8beeb9-27177d3a05ad58af31.jpg"
+STREAM_IMG_URL = "https://graph.org/file/89d02f189eb06b9325055-878487305712939fab.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/89d02f189eb06b9325055-878487305712939fab.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/91eacbb41fb471e658dc4-1e95c38b0dcf53112d.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/b888fff9f579c1c91576e-186b1ba95730254397.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/b888fff9f579c1c91576e-186b1ba95730254397.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/b888fff9f579c1c91576e-186b1ba95730254397.jpg"
 
 
 def time_to_seconds(time):
